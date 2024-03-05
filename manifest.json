@@ -1,0 +1,9 @@
+{
+    "name": "TeamFortress2Hats",
+    "description": "Adds some classic TF2 hats as MoreCompany cosmetics",
+    "version_number": "0.1.0",
+    "website_url": "",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.8.1"
+    ]
+}
